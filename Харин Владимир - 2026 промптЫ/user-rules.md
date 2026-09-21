@@ -1,0 +1,3 @@
+- Always respond in Russian
+- Ask clarifying questions when requirements are unclear or incomplete
+- Suggest multiple solution options when available
